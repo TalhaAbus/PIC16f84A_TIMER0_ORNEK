@@ -1,0 +1,137 @@
+Version 4.0 HI-TECH Software Intermediate Code
+[p mainexit ]
+"385 D:/Programs/MPLAB/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc\pic16f84a.h
+[; ;D:/Programs/MPLAB/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc\pic16f84a.h: 385: extern volatile unsigned char OPTION_REG __attribute__((address(0x081)));
+[v _OPTION_REG `Vuc ~T0 @X0 0 e@129 ]
+"60
+[; ;D:/Programs/MPLAB/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc\pic16f84a.h: 60: extern volatile unsigned char TMR0 __attribute__((address(0x001)));
+[v _TMR0 `Vuc ~T0 @X0 0 e@1 ]
+"499
+[; ;D:/Programs/MPLAB/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc\pic16f84a.h: 499: extern volatile unsigned char TRISB __attribute__((address(0x086)));
+[v _TRISB `Vuc ~T0 @X0 0 e@134 ]
+"211
+[; ;D:/Programs/MPLAB/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc\pic16f84a.h: 211: extern volatile unsigned char PORTB __attribute__((address(0x006)));
+[v _PORTB `Vuc ~T0 @X0 0 e@6 ]
+"676
+[; ;D:/Programs/MPLAB/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc\pic16f84a.h: 676: extern volatile __bit RB0 __attribute__((address(0x30)));
+[v _RB0 `Vb ~T0 @X0 0 e@48 ]
+"55 D:/Programs/MPLAB/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc\pic16f84a.h
+[; ;D:/Programs/MPLAB/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc\pic16f84a.h: 55: __asm("INDF equ 00h");
+[; <" INDF equ 00h ;# ">
+"62
+[; ;D:/Programs/MPLAB/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc\pic16f84a.h: 62: __asm("TMR0 equ 01h");
+[; <" TMR0 equ 01h ;# ">
+"69
+[; ;D:/Programs/MPLAB/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc\pic16f84a.h: 69: __asm("PCL equ 02h");
+[; <" PCL equ 02h ;# ">
+"76
+[; ;D:/Programs/MPLAB/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc\pic16f84a.h: 76: __asm("STATUS equ 03h");
+[; <" STATUS equ 03h ;# ">
+"162
+[; ;D:/Programs/MPLAB/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc\pic16f84a.h: 162: __asm("FSR equ 04h");
+[; <" FSR equ 04h ;# ">
+"169
+[; ;D:/Programs/MPLAB/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc\pic16f84a.h: 169: __asm("PORTA equ 05h");
+[; <" PORTA equ 05h ;# ">
+"213
+[; ;D:/Programs/MPLAB/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc\pic16f84a.h: 213: __asm("PORTB equ 06h");
+[; <" PORTB equ 06h ;# ">
+"275
+[; ;D:/Programs/MPLAB/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc\pic16f84a.h: 275: __asm("EEDATA equ 08h");
+[; <" EEDATA equ 08h ;# ">
+"282
+[; ;D:/Programs/MPLAB/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc\pic16f84a.h: 282: __asm("EEADR equ 09h");
+[; <" EEADR equ 09h ;# ">
+"289
+[; ;D:/Programs/MPLAB/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc\pic16f84a.h: 289: __asm("PCLATH equ 0Ah");
+[; <" PCLATH equ 0Ah ;# ">
+"309
+[; ;D:/Programs/MPLAB/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc\pic16f84a.h: 309: __asm("INTCON equ 0Bh");
+[; <" INTCON equ 0Bh ;# ">
+"387
+[; ;D:/Programs/MPLAB/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc\pic16f84a.h: 387: __asm("OPTION_REG equ 081h");
+[; <" OPTION_REG equ 081h ;# ">
+"457
+[; ;D:/Programs/MPLAB/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc\pic16f84a.h: 457: __asm("TRISA equ 085h");
+[; <" TRISA equ 085h ;# ">
+"501
+[; ;D:/Programs/MPLAB/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc\pic16f84a.h: 501: __asm("TRISB equ 086h");
+[; <" TRISB equ 086h ;# ">
+"563
+[; ;D:/Programs/MPLAB/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc\pic16f84a.h: 563: __asm("EECON1 equ 088h");
+[; <" EECON1 equ 088h ;# ">
+"607
+[; ;D:/Programs/MPLAB/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc\pic16f84a.h: 607: __asm("EECON2 equ 089h");
+[; <" EECON2 equ 089h ;# ">
+"6 main.c
+[; ;main.c: 6:     OPTION_REG = 0x07;
+[p x FOSC  =  XT         ]
+"7
+[; ;main.c: 7:     TMR0 = 236;
+[p x WDTE  =  OFF        ]
+"8
+[; ;main.c: 8:     TRISB = 0x00;
+[p x PWRTE  =  OFF       ]
+"9
+[; ;main.c: 9:     PORTB = 0x00;
+[p x CP  =  OFF          ]
+"13
+[; ;main.c: 13:         if(TMR0 ==0)
+[v _sayac `i ~T0 @X0 1 e ]
+[v $root$_main `(v ~T0 @X0 0 e ]
+"15
+[; ;main.c: 15:             TMR0 = 236;
+[v _main `(v ~T0 @X0 1 ef ]
+{
+[e :U _main ]
+[f ]
+"17
+[; ;main.c: 17:         }
+[e = _OPTION_REG -> -> 7 `i `uc ]
+"18
+[; ;main.c: 18: 
+[e = _TMR0 -> -> 236 `i `uc ]
+"19
+[; ;main.c: 19:         if(sayac == 200)
+[e = _TRISB -> -> 0 `i `uc ]
+"20
+[; ;main.c: 20:         {
+[e = _PORTB -> -> 0 `i `uc ]
+"22
+[; ;main.c: 22:             sayac = 0;
+[e :U 30 ]
+"23
+[; ;main.c: 23:         }
+{
+"24
+[; ;main.c: 24:     }
+[e $ ! == -> _TMR0 `i -> 0 `i 32  ]
+"25
+[; ;main.c: 25: }
+{
+"26
+[e = _TMR0 -> -> 236 `i `uc ]
+"27
+[e =+ _sayac -> 1 `i ]
+"28
+}
+[e :U 32 ]
+"30
+[e $ ! == _sayac -> 200 `i 33  ]
+"31
+{
+"32
+[e = _RB0 -> ^ -> _RB0 `i -> 1 `i `b ]
+"33
+[e = _sayac -> 0 `i ]
+"34
+}
+[e :U 33 ]
+"35
+}
+[e :U 29 ]
+[e $U 30  ]
+[e :U 31 ]
+"36
+[e :UE 28 ]
+}
